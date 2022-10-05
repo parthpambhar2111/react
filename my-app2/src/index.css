@@ -1,0 +1,30 @@
+  
+
+.d
+{
+  margin-top: 20px;
+  
+}
+.f
+{
+  float: left;
+  margin: 30px;
+  border: 1px solid black;
+  background-color: coral;
+}
+
+.img2
+{
+  object-fit: cover;
+  overflow: hidden;
+  width: 150px;
+}
+.f:hover
+{
+  border: 2px solid black;
+
+}
+.e:hover
+{
+  border: 1px solid gold;
+}
